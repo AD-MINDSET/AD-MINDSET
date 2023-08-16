@@ -25,7 +25,8 @@ We welcome contributions from the community! If you're interested in contributin
 
 ## License 📜
 
-This repository is licensed under the [MIT License](LICENSE).
+All repositories in this section are protected by copyright, all rights reserved to AD_MINDSET
+
 
 ---
 
